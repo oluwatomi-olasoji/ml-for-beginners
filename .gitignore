@@ -6,6 +6,7 @@
 dist 
 
 # User-specific files
+.venv
 *.rsuser
 *.suo
 *.user
