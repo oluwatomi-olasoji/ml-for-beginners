@@ -1,4 +1,7 @@
+
 # 🛸 UFO Sighting Country Predictor
+
+<img width="503" height="406" alt="image" src="https://github.com/user-attachments/assets/1b2c3884-7116-4f76-9ad9-44cad8915151" />
 
 A Flask web application that utilizes a Logistic Regression classification model to predict the country most likely to have reported a UFO sighting based on spatial and temporal inputs.
 
